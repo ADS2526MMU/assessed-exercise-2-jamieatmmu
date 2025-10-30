@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADSPortEx2", "ADSPortEx2\ADSPortEx2.csproj", "{FFF2D5E0-4CC8-4973-B017-74191DBAA3AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADSPortEx2Tests", "ADSPortEx2Tests\ADSPortEx2Tests.csproj", "{60AE7D2F-0F47-431E-87CE-ACEC7338989D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FFF2D5E0-4CC8-4973-B017-74191DBAA3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFF2D5E0-4CC8-4973-B017-74191DBAA3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFF2D5E0-4CC8-4973-B017-74191DBAA3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AE7D2F-0F47-431E-87CE-ACEC7338989D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AE7D2F-0F47-431E-87CE-ACEC7338989D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AE7D2F-0F47-431E-87CE-ACEC7338989D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AE7D2F-0F47-431E-87CE-ACEC7338989D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
